@@ -1,0 +1,147 @@
+{
+  "site": {
+    "brand": "Almond.dev",
+    "year": 2026
+  },
+  "profile": {
+    "name": "Almond",
+    "fullName": "Jiratchaya K.",
+    "initials": "JK",
+    "photo": "profile.jpg",
+    "badge": "IT Student · Web Developer",
+    "headline": "I build things for the web.",
+    "intro": "I'm a university IT student who loves turning ideas into clean, simple and useful web experiences — from UI/UX design to databases and data visualization.",
+    "university": "Bangkok University",
+    "studentId": "1680701982",
+    "cvUrl": "#",
+    "email": "jiratchaya.kaew@bumail.net",
+    "phone": "",
+    "location": "Bangkok, Thailand",
+    "available": true
+  },
+  "codeCard": {
+    "title": "</> Code",
+    "lines": [
+      { "key": "name", "value": "\"Almond\"" },
+      { "key": "role", "value": "\"IT Student\"" },
+      { "key": "skills", "value": "[\"HTML\", \"CSS\", \"JavaScript\", \"SQL\"]" },
+      { "key": "passion", "value": "\"Building things for the web\"" }
+    ]
+  },
+  "techIcons": [
+    { "name": "HTML5", "icon": "devicon-html5-plain colored" },
+    { "name": "CSS3", "icon": "devicon-css3-plain colored" },
+    { "name": "JavaScript", "icon": "devicon-javascript-plain colored" },
+    { "name": "MySQL", "icon": "devicon-mysql-original colored" },
+    { "name": "Python", "icon": "devicon-python-plain colored" },
+    { "name": "Figma", "icon": "devicon-figma-plain colored" },
+    { "name": "Git", "icon": "devicon-git-plain colored" }
+  ],
+  "about": {
+    "label": "About Me",
+    "title": "I'm passionate about creating digital solutions",
+    "short": "I'm Almond, an IT student who enjoys designing interfaces, building websites and making data easy to understand.",
+    "long": [
+      "I'm studying Information Technology, where I'm learning everything from UI/UX design and web development to databases and data visualization.",
+      "I care about clean code, clear design and details that make a website feel easy to use. This portfolio collects the projects and skills I'm building along the way."
+    ]
+  },
+  "stats": [
+    { "value": "IT", "label": "University Student", "icon": "calendar" },
+    { "value": "5+", "label": "Class Projects", "icon": "code" },
+    { "value": "9", "label": "Skills & Tools", "icon": "smile" },
+    { "value": "100%", "label": "Effort & Curiosity", "icon": "trophy" }
+  ],
+  "skills": [
+    { "name": "HTML", "level": 85, "icon": "devicon-html5-plain colored" },
+    { "name": "CSS", "level": 80, "icon": "devicon-css3-plain colored" },
+    { "name": "JavaScript", "level": 65, "icon": "devicon-javascript-plain colored" },
+    { "name": "SQL / Database", "level": 70, "icon": "devicon-mysql-original colored" },
+    { "name": "UI/UX (Figma)", "level": 75, "icon": "devicon-figma-plain colored" },
+    { "name": "Data Visualization", "level": 70, "icon": "devicon-python-plain colored" },
+    { "name": "Python", "level": 60, "icon": "devicon-python-plain colored" },
+    { "name": "Git & GitHub", "level": 60, "icon": "devicon-git-plain colored" },
+    { "name": "English Communication", "level": 75, "icon": "devicon-markdown-original" }
+  ],
+  "timeline": [
+    { "period": "Now", "role": "B.Sc. Information Technology", "place": "Bangkok University", "detail": "Studying web development, databases, UI/UX design and data visualization." },
+    { "period": "IT 136", "role": "UI/UX Design", "place": "Coursework", "detail": "Learned user-centered design, wireframes and prototyping for apps and websites." },
+    { "period": "IT 233", "role": "Data Visualization", "place": "Coursework", "detail": "Turning raw data into clear charts and dashboards that tell a story." },
+    { "period": "IT 234", "role": "Introduction to Database", "place": "Coursework", "detail": "Designing ER diagrams and relational databases, and writing SQL queries." },
+    { "period": "EN 103", "role": "English Project — PM2.5 in Bangkok", "place": "Coursework", "detail": "Researched and presented a community issue: PM2.5 air pollution in Bangkok." }
+  ],
+  "services": [
+    { "title": "Web Development", "detail": "Responsive websites built with HTML, CSS and JavaScript." },
+    { "title": "UI/UX Design", "detail": "Wireframes and clean interfaces designed around real user needs." },
+    { "title": "Data & Database", "detail": "Database design, SQL queries and data visualization dashboards." }
+  ],
+  "projects": [
+    {
+      "id": 1,
+      "title": "Personal Portfolio Website",
+      "description": "This 3-page portfolio, powered by a single data.json file.",
+      "category": "Web",
+      "tags": ["HTML", "CSS", "JavaScript", "JSON"],
+      "theme": "purple",
+      "featured": true,
+      "demo": "#",
+      "repo": "#"
+    },
+    {
+      "id": 2,
+      "title": "App UI/UX Design",
+      "description": "Wireframes and a clickable prototype from IT 136.",
+      "category": "UI/UX",
+      "tags": ["Figma", "UX Research"],
+      "theme": "light",
+      "featured": true,
+      "demo": "#",
+      "repo": ""
+    },
+    {
+      "id": 3,
+      "title": "Data Visualization Dashboard",
+      "description": "Interactive charts and insights from IT 233.",
+      "category": "Data",
+      "tags": ["Dashboard", "Charts"],
+      "theme": "dark",
+      "featured": true,
+      "demo": "#",
+      "repo": ""
+    },
+    {
+      "id": 4,
+      "title": "Database Design Project",
+      "description": "ER diagram, tables and SQL queries from IT 234.",
+      "category": "Data",
+      "tags": ["SQL", "ER Diagram"],
+      "theme": "teal",
+      "featured": false,
+      "demo": "#",
+      "repo": ""
+    },
+    {
+      "id": 5,
+      "title": "PM2.5 in Bangkok",
+      "description": "English project on air pollution as a community issue (EN 103).",
+      "category": "Research",
+      "tags": ["Research", "Presentation"],
+      "theme": "orange",
+      "featured": false,
+      "demo": "#",
+      "repo": ""
+    }
+  ],
+  "testimonial": {
+    "quote": "I believe good design is simple, useful and made with care. Every project is a chance to learn something new and build something better.",
+    "name": "Almond",
+    "role": "IT Student",
+    "initials": "JK",
+    "photo": "profile.jpg"
+  },
+  "socials": [
+    { "name": "GitHub", "url": "https://github.com/" },
+    { "name": "LinkedIn", "url": "https://linkedin.com/" },
+    { "name": "Instagram", "url": "https://instagram.com/" }
+  ]
+}
